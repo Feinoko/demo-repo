@@ -5,8 +5,14 @@ h1 {
 p {
     background-color: mediumaquamarine;
     padding: 10%;
+    margin-block-end: 0em;
 }
 
 h2 {
 color: mediumslateblue;
+}
+
+a {
+    color: #941c1c;
+    text-decoration: none;
 }
