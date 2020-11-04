@@ -16,3 +16,8 @@ a {
     color: #941c1c;
     text-decoration: none;
 }
+
+ul {
+    padding-left: 40px;
+    list-style-type: lower-greek;
+}
